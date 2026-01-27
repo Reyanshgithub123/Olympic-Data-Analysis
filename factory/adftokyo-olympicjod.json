@@ -1,0 +1,9 @@
+{
+	"name": "adftokyo-olympicjod",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8933f31c-d2f0-46ea-974a-43d66a7db786",
+		"tenantId": "da44f0c7-683d-41bd-b909-3028a7410279"
+	}
+}

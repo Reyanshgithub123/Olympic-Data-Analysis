@@ -1,0 +1,13 @@
+{
+	"name": "HttpServer3",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/Reyanshgithub123/Olympic-Data-Analysis/041652b069cd272442a1ce3d79de9c6501f022cf/EntriesGender.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}

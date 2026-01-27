@@ -1,0 +1,12 @@
+{
+	"name": "AzureDataLakeStorage1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://tokiyoresource.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEQzNTA0NENELUU4RDgtNDI2Ni05RjJBLTM4ODdGOEFBNzU0RV9mNDczYWY4Ny04MDkyLTQ3NDgtYTVlZS0wMDNkZjQ3YjJmNTAiDQp9"
+		}
+	}
+}
